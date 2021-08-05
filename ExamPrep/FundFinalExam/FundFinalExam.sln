@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationKeys", "FundFinalExam\ActivationKeys.csproj", "{2385CDC3-BEB6-46E3-BB0A-0DFC6046A008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivationKeys", "FundFinalExam\ActivationKeys.csproj", "{2385CDC3-BEB6-46E3-BB0A-0DFC6046A008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{B62125CF-532B-44B8-B70E-596D8183633F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{B62125CF-532B-44B8-B70E-596D8183633F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates", "Pirates\Pirates.csproj", "{268E3AA5-0BD7-475B-BFF9-3EA8FA5E8978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirates", "Pirates\Pirates.csproj", "{268E3AA5-0BD7-475B-BFF9-3EA8FA5E8978}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordReset", "PasswordSolution\PasswordReset.csproj", "{A311221F-BE6B-42EC-873B-B2F43221554F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{B79B443A-FF59-4CBE-8559-95F25374EE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfCodeAndLogic", "HeroesOfCodeAndLogic\HeroesOfCodeAndLogic.csproj", "{FFF51085-DC0F-4C4E-98E7-3C9292ECCB62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{268E3AA5-0BD7-475B-BFF9-3EA8FA5E8978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268E3AA5-0BD7-475B-BFF9-3EA8FA5E8978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268E3AA5-0BD7-475B-BFF9-3EA8FA5E8978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A311221F-BE6B-42EC-873B-B2F43221554F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A311221F-BE6B-42EC-873B-B2F43221554F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A311221F-BE6B-42EC-873B-B2F43221554F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A311221F-BE6B-42EC-873B-B2F43221554F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79B443A-FF59-4CBE-8559-95F25374EE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79B443A-FF59-4CBE-8559-95F25374EE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79B443A-FF59-4CBE-8559-95F25374EE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79B443A-FF59-4CBE-8559-95F25374EE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF51085-DC0F-4C4E-98E7-3C9292ECCB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF51085-DC0F-4C4E-98E7-3C9292ECCB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF51085-DC0F-4C4E-98E7-3C9292ECCB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF51085-DC0F-4C4E-98E7-3C9292ECCB62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
